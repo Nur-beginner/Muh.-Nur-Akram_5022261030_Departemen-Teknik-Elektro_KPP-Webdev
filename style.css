@@ -211,6 +211,7 @@ section#category {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin: 2em;
+  gap: 5em;
 }
 section#category > article {
   margin: 0.5em;
